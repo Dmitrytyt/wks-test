@@ -1,0 +1,1 @@
+.error, .import-info__fail{	color: red;}.data_table{	border: 3px solid black;}.data_table tr{	border: 1px solid gray;}.data_table td{	padding-left: 10px;	padding-right: 10px;}a.paginator, .import-info__success{	color: green;	padding-right: 10px;}a.current{	color: red;}
